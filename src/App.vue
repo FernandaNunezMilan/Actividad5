@@ -12,7 +12,7 @@
     </li>
   </ul>
   <button @click="hideCompleted = !hideCompleted">
-    {{ hideCompleted ? 'Mostrar todos' : 'Ocultar tareas completas' }}
+    {{ hideCompleted ? 'Mostrar todas' : 'Ocultar tareas completas' }}
   </button>
   </div>
 </template>
